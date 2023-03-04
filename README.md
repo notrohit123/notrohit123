@@ -1,16 +1,30 @@
-### Hi there 👋
+Hi 👋, I'm Rohith
 
-<!--
-**notrohit123/notrohit123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+A Data Analyst from India.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+💬 Ask me about
+
+- Programming Languages(Python,c++)
+- Database (SQL)
+- Machine Learning
+- PowerBI 
+- Natural Language processing
+- ETL - powerquery
+
+📅 Hobbies
+
+- Training my pet
+- Watching movies
+- Visualizing data
+- etc..
+
+💻 Projects
+
+- Sleeping disorder prediction
+- Credit card segmentation
+- Amazon web scraping
+- Indian crime states cluster
+- Layoffs EDA with Dashboard
+ 
