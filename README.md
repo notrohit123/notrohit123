@@ -10,12 +10,10 @@ A Data Analyst from India.
 - Database (SQL)
 - Machine Learning
 - PowerBI 
-- Natural Language processing
 - ETL - powerquery
 
 📅 Hobbies
 
-- Training my pet
 - Watching movies
 - Visualizing data
 - etc..
