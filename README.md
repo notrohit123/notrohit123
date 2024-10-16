@@ -1,7 +1,7 @@
 Hi 👋, I'm Rohith
 
 
-A Data Analyst from India.
+A Data Scientist from India.
 
 
 💬 Ask me about
@@ -11,11 +11,14 @@ A Data Analyst from India.
 - Machine Learning
 - PowerBI 
 - ETL - powerquery
-
+- LLM
+- NLP
+- 
 📅 Hobbies
 
 - Watching movies
 - Visualizing data
+- Cities skylines
 - etc..
 
 💻 Projects
