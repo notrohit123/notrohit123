@@ -28,4 +28,3 @@ A Data Scientist from India.
 - Amazon web scraping
 - Indian crime states cluster
 - Layoffs EDA with Dashboard
- 
