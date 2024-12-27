@@ -13,7 +13,8 @@ A Data Scientist from India.
 - ETL - powerquery
 - LLM
 - NLP
-- 
+
+  
 📅 Hobbies
 
 - Watching movies
