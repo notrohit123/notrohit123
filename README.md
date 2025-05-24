@@ -13,7 +13,10 @@ A Data Scientist from India.
 - ETL - powerquery
 - LLM
 - NLP
-
+- N8N
+- RAG
+- Langchain
+- Langgraph
   
 📅 Hobbies
 
