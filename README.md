@@ -24,6 +24,8 @@ A Data Scientist from India.
 
 💻 Projects
 
+- Persistent-Memory-chat-agent
+- Rag-qwen-bot
 - Sleeping disorder prediction
 - Credit card segmentation
 - Amazon web scraping
